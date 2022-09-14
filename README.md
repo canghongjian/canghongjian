@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canghongjian
-- 👀 I’m interested in QA in NLP
-- 🌱 I’m currently learning multi-hop QA
+- 👀 I’m interested in multi-hop QA in NLP
+- 🌱 I’m currently learning information retrieval in QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me relyourself@bupt.edu.cn
 
