@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @canghongjian
-- 👀 I’m interested in multi-hop QA in NLP
-- 🌱 I’m currently learning information retrieval in QA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me relyourself@bupt.edu.cn
+- 👀 I’m interested in LLM、long context modeling、multi-hop QA etc
+- 📫 How to reach me canghongjian@gmail.com
 
 <!---
 canghongjian/canghongjian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
