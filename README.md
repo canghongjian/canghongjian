@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canghongjian
-- 👀 I’m interested in LLM、long context modeling、multi-hop QA etc
+- 👀 I’m interested in agentic LLM、long context modeling、multi-hop QA etc
 - 📫 How to reach me canghongjian@gmail.com
 
 <!---
